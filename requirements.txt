@@ -1,0 +1,2 @@
+requests>=2.31.0
+eth-hash>=0.7.1
